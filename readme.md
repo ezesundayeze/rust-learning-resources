@@ -9,6 +9,8 @@
 
 [Brown University Book on Rust](https://rust-book.cs.brown.edu/ch03-03-how-functions-work.html)
 
+[Google: Comprehensive Rust](https://google.github.io/comprehensive-rust/)
+
 
 ## Video Courses
 
