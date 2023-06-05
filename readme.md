@@ -2,8 +2,8 @@
 - [Official Rust Documentation](https://www.rust-lang.org/learn)
 
 ## Tutorials and Guides
-- [Introduction to Rust in Simple English](https://ezesunday.com/blog/introducing-rust-in-simple-english/)
 - [Effective Rust](lurklurk.org/effective-rust/)
+- [Introduction to Rust in Simple English](https://ezesunday.com/blog/introducing-rust-in-simple-english/)
 
 ## Books and E-books
 - [MIT Rust Book](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/index.html)
