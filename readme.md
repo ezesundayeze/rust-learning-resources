@@ -11,8 +11,8 @@
 - [Google: Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 - [Learn Rust from scratch](https://www.educative.io/courses/learn-rust-from-scratch) - Educative.io
 - [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/) - Microsoft.com
-
-
+- [Rust Design Patterns](
+https://www.manning.com/books/rust-design-patterns)
 ## Video Courses
 - [Intro to Rust](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW) - Tensor Programming
 - [Rust Basics](https://www.youtube.com/playlist?list=PLlcnQQJK8SUjApd95LIcd3K9XXmE-IeCS) - Engineer Man
