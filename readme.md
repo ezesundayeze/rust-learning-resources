@@ -27,4 +27,4 @@ https://www.manning.com/books/rust-design-patterns)
 - [4 Small Rust Projects For Beginners](https://preettheman.medium.com/4-small-rust-projects-for-beginners-444b16bc10be)
 
 ## Quiz
-- [Rust Quiz] (https://dtolnay.github.io/rust-quiz/22)
+- [Rust Quiz](https://dtolnay.github.io/rust-quiz/22)
